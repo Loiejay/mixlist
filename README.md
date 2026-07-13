@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -263,7 +263,7 @@
       <div class="pagination" id="pagination"></div>
     </div>
 
-    <footer class="note">Use the menu (☰) button above to add new items or delete existing ones — changes save automatically and will still be here next time this page is opened. Logo and contact details are still placeholders you can personalize.</footer>
+    <footer class=.</footer>
   </main>
 
   <!-- ---------- Manage Inventory modal ---------- -->
